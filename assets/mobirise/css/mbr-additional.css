@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.28rem;
+  font-size: 1.12rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -659,13 +659,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.28rem;
+  font-size: 1.12rem;
 }
 .form-control,
 .form-control:focus {
@@ -1801,7 +1801,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-ro1EgH9Uee {
-  background-image: url("../../../assets/images/zkgrafiti2-1-1920x1080.jpg");
+  background-image: url("../../../assets/images/stars-3840x2160-planets-galaxy-4k-6345-2000x1125.jpg");
 }
 .cid-rn9kNOhzct {
   padding-top: 15px;
